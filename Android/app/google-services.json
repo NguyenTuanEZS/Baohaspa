@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "554490896679",
+    "firebase_url": "https://baoha-bce24.firebaseio.com",
+    "project_id": "baoha-bce24",
+    "storage_bucket": "baoha-bce24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554490896679:android:8e7d00f9b450f04811c902",
+        "android_client_info": {
+          "package_name": "com.vn.baohaspa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554490896679-h0an92rbl585d7558kn7ponu2jqsifh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWJGvr8xDO0p7H8G7ahdhF-ZoMPpKg0fQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554490896679-h0an92rbl585d7558kn7ponu2jqsifh7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "554490896679-pj5c4tj78c8t9gkjc5ek66a6ea2vkll8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "BaoHaSpa"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554490896679:android:b0cb3c9a73b63c88",
+        "android_client_info": {
+          "package_name": "vn.baohaspa.baohaspa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554490896679-h0an92rbl585d7558kn7ponu2jqsifh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWJGvr8xDO0p7H8G7ahdhF-ZoMPpKg0fQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554490896679-h0an92rbl585d7558kn7ponu2jqsifh7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "554490896679-pj5c4tj78c8t9gkjc5ek66a6ea2vkll8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "BaoHaSpa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

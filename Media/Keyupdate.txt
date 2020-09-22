@@ -1,0 +1,5 @@
+Key Store Path : E:\Apps/baohapsa-new\Android\key.jks
+Pass: anhyeuem
+Alias key0
+Pass: anhyeuem
+Link release :  E:\Apps\baohapsa-new\Android\app\release

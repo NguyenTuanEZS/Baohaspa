@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>554490896679-id6li81r7qpfigig2j0thaognace6e20.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.554490896679-id6li81r7qpfigig2j0thaognace6e20</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBRjruCTq5gGZKYoDP2cOkgx0kR8lxdFjo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>554490896679</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.vn.baohaspa</string>
+	<key>PROJECT_ID</key>
+	<string>baoha-bce24</string>
+	<key>STORAGE_BUCKET</key>
+	<string>baoha-bce24.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:554490896679:ios:2074ec53f2e8c8e711c902</string>
+	<key>DATABASE_URL</key>
+	<string>https://baoha-bce24.firebaseio.com</string>
+</dict>
+</plist>
